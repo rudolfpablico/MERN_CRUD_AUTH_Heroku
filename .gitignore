@@ -1,0 +1,9 @@
+/node_modules
+
+.vscode
+
+/client/node_modules
+
+.DS_Store
+
+/config/keys.js
