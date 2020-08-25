@@ -2,6 +2,8 @@
 
 > Shopping list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
 
+> Live production running on https://glacial-gorge-66693.herokuapp.com/
+
 ## Quick Start
 ```bash
 # Install dependencies for server
